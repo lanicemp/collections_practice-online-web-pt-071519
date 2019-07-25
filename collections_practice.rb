@@ -17,7 +17,7 @@ end
 def swap_elements(array)
    num[1], num[2] = num[2], num[1]
   num
-  binding.pry  
+  #binding.pry  
 end 
 
 def reverse_array(list)
