@@ -15,8 +15,8 @@ def sort_array_char_count(list)
 end 
 
 def swap_elements(array)
-   num[1], num[2] = num[2], num[1]
-  num
+   array[1], array[2] = array[2], array[1]
+  array
   #binding.pry  
 end 
 
