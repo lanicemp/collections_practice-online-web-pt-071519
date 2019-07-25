@@ -11,4 +11,5 @@ end
 def sort_array_char_count(list)
   list.sort {|x, y| x.size <=> y.size}
   # sort the array by 
+  binding.pry
 end 
