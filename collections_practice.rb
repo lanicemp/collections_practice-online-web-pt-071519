@@ -10,6 +10,5 @@ end
 
 def sort_array_char_count(list)
   list.sort {|x, y| x.size <=> y.size}
-  # sort the array by 
-  binding.pry
+  # sort the array by order of the length of the word.
 end 
