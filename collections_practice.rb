@@ -27,7 +27,9 @@ def kesha_maker(list)
   list.collect do |element|
   element[2] = "$" 
     element 
+end
 end 
+
 
 def find_a(list)
 end   
