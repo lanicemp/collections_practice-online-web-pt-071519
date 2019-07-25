@@ -49,6 +49,6 @@ def add_s(list)
       word 
     else 
       word + "s"
-end   
-end 
+    end   
+  end 
 end 
