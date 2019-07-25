@@ -9,6 +9,6 @@ def sort_array_desc(list)
 end 
 
 def sort_array_char_count(list)
-  list.sort {|x, y| y.size <=> x.size}
+  list.sort {|x, y| x.size <=> y.size}
   # sort the array by 
 end 
