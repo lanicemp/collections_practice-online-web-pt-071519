@@ -10,5 +10,5 @@ end
 
 def sort_array_char_count(list)
   list.sort {|x,y|}
-  binding.pry
+  # sort the array by 
 end 
