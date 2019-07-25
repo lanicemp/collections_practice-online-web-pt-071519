@@ -23,7 +23,8 @@ def reverse_array(list)
   list.reverse
 end 
 
-def kesha_maker (list)
+def kesha_maker(list)
+  list.sort 
   
 end 
 
