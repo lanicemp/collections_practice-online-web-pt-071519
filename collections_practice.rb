@@ -24,7 +24,8 @@ def reverse_array(list)
 end 
 
 def kesha_maker(list)
-  list.collect[2] = "$" 
+  list.collect do |element|
+  element[2] = "$" 
   list
   
 end 
