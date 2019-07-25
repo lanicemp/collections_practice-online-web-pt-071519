@@ -38,7 +38,8 @@ def find_a(list)
 end   
 
 def sum_array(list)
-  array.inject
+  array.inject do |sum, num|
+    
 end 
 
 def add_s(list)
