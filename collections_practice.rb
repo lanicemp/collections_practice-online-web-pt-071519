@@ -20,4 +20,16 @@ end
 def reverse_array(list)
   list.reverse
 end 
+
+def kesha_maker (list)
   
+end 
+
+def find_a(list)
+end   
+
+def sum_array(list)
+end 
+
+def add_s(list)
+end   
