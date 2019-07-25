@@ -12,3 +12,12 @@ def sort_array_char_count(list)
   list.sort {|x, y| x.size <=> y.size}
   # sort the array by order of the length of the word.
 end 
+
+def swap_elements(array, index, destination_index)
+  
+end 
+
+def reverse_array(list)
+  list.reverse
+end 
+  
