@@ -33,7 +33,8 @@ end
 
 def find_a(list)
   list.select do |word|
-    word.chr == a
+    word.chr == "a"
+  end 
 end   
 
 def sum_array(list)
