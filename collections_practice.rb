@@ -44,7 +44,11 @@ def sum_array(list)
 end 
 
 def add_s(list)
-  
-  list[2] = list[(2) +"s"]
-  list
+   list.collect.with_index do |word, index|
+    if index == 1 
+      word 
+    else 
+      word + "s"
 end   
+end 
+end 
