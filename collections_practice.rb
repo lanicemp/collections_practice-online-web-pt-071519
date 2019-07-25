@@ -15,7 +15,7 @@ def sort_array_char_count(list)
 end 
 
 def swap_elements(array, index, destination_index)
-  
+  binding.pry  
 end 
 
 def reverse_array(list)
