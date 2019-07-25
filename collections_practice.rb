@@ -32,6 +32,8 @@ end
 
 
 def find_a(list)
+  list.select do |word|
+    word
 end   
 
 def sum_array(list)
