@@ -24,7 +24,8 @@ def reverse_array(list)
 end 
 
 def kesha_maker(list)
-  list.sort 
+  list.slice[2] = "$" 
+  list
   
 end 
 
