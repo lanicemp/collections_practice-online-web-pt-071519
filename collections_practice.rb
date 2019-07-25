@@ -44,6 +44,6 @@ def sum_array(list)
 end 
 
 def add_s(list)
-  list[2] = list[2 +"s"]
+  list[2] = list[(2) +"s"]
   list
 end   
